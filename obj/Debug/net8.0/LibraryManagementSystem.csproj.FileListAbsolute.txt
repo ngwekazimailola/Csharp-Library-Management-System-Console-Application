@@ -1,0 +1,14 @@
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.exe
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.deps.json
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.runtimeconfig.json
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.dll
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.pdb
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.dll
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\obj\Debug\net8.0\refint\LibraryManagementSystem.dll
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.pdb
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\hanna\pg521\Week6\LibraryManagementSystem\obj\Debug\net8.0\ref\LibraryManagementSystem.dll
